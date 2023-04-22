@@ -256,7 +256,7 @@ module.exports = {
   ***************************************************************************/
   sockets: {
 
-    onlyAllowOrigins: ["https://ultimapagina.up.railway.app/"]
+    onlyAllowOrigins: ["https://proyectofinalwebii-production.up.railway.app"]
 
     /***************************************************************************
     *                                                                          *
@@ -391,7 +391,7 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'https://example.com',
+    baseUrl: 'https://proyectofinalwebii-production.up.railway.app/',
     internalEmailAddress: 'support@example.com',
 
     // sendgridSecret: 'SG.fake.3e0Bn0qSQVnwb1E4qNPz9JZP5vLZYqjh7sn8S93oSHU',
