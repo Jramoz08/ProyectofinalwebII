@@ -36,11 +36,11 @@ module.exports.datastores = {
 
   
     adapter: 'sails-mysql',
-    user: 'root',
-    password: '',
+    user: 'uo5yc8vco5jlpch6',
+    password: 'L4v3eqmJuahtaSnJnPps',
     port: '3306',
-    host: 'localhost',
-    database:'db_books'
+    host: 'bq5wkpktgp9o4shwq1lb-mysql.services.clever-cloud.com',
+    database:'bq5wkpktgp9o4shwq1lb'
 
   },
 

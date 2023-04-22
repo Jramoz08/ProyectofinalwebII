@@ -233,7 +233,7 @@ module.exports = {
     *                                                                          *
     * Read more:                                                               *
     * https://sailsjs.com/config/session#?the-session-id-cookie                *
-    *                                                                          *
+    *                                                           sock               *
     ***************************************************************************/
     cookie: {
       // secure: true,
