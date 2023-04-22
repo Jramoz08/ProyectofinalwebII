@@ -256,6 +256,8 @@ module.exports = {
   ***************************************************************************/
   sockets: {
 
+    onlyAllowOrigins: ["https://ultimapagina.up.railway.app/"]
+
     /***************************************************************************
     *                                                                          *
     * Uncomment the `onlyAllowOrigins` whitelist below to configure which      *
